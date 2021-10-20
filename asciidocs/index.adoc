@@ -13,22 +13,22 @@ ifdef::backend-html5[]
 
 // print the toc here (not at the default position)
 //toc::[]
-
-== Projekt-Bezeichnung
+== Projekt
+=== Projekt-Bezeichnung
 
 Digitale Kurseintragung
 
-== Projekt-Auftraggeber
+=== Projekt-Auftraggeber
 
-== Projekthintergrund
+=== Projekthintergrund
 
-== Projektziele
+=== Projektziele
 
-=== Sinn/Zweck
+==== Sinn/Zweck
 
-=== Kunde/Beteiligte
+==== Kunde/Beteiligte
 
-=== Endergebnis
+==== Endergebnis
 
-=== Kriterien
+==== Kriterien
 
