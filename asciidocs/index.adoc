@@ -13,22 +13,30 @@ ifdef::backend-html5[]
 
 // print the toc here (not at the default position)
 //toc::[]
-== Projekt
-=== Projekt-Bezeichnung
+
+== Projekt-Bezeichnung
 
 Digitale Kurseintragung
 
-=== Projekt-Auftraggeber
+== Projekt-Auftraggeber
 
-=== Projekthintergrund
+== Projekthintergrund
 
-=== Projektziele
+== Projektziele
 
-==== Sinn/Zweck
+=== Sinn/Zweck
 
-==== Kunde/Beteiligte
+// Am Ende soll ein Programm die komplette Kursverwaltung für eine Fahrschule widerspiegeln.
 
-==== Endergebnis
+Dies bringt der Fahrschule folgende Vorteile:
 
-==== Kriterien
+* Die kompletten Anmeldungen laufen nur noch über die Webseite
+* Vorgefertigte Kurslisten
+* Übersichtliches Management
+
+=== Kunde/Beteiligte
+
+=== Endergebnis
+
+=== Kriterien
 
